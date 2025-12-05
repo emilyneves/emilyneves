@@ -1,0 +1,133 @@
+## Hello! Eu sou a Emily Neves
+
+👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
+📚 Apaixonada por aprender, codar e crescer todos os dias  
+
+---
+### 🖋 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, leitura e aprendizado constante. Tenho interesse especial por desenvolvimento back-end, boas práticas de código e arquitetura de software. Gosto de me desafiar com novos projetos e estou sempre buscando crescer como programadora e pessoa.
+
+---
+
+### ✨ Tecnologias que utilizo:
+
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌱 Em desenvolvimento:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📂 Projeto em desenvolvimento: 
+
+
+#### 📚 Sistema de Histórico de Leitura  
+Um sistema em Java e MySQL para acompanhar e registrar leituras realizadas.  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=historico-de-leitura&theme=midnight-purple)](https://github.com/emilynvs/historico-de-leitura.git)
+
+---
+
+#### 🗂 Guia de Padrões de Projeto  
+Guia com explicações simples e autorais sobre os principais padrões de projeto de software.  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=Padroes-de-Projeto&theme=midnight-purple)](https://github.com/emilynvs/Padroes-de-Projeto)
+
+---
+
+### 📊 GitHub Stats:
+
+![emilynvs's Stats](https://github-readme-stats.vercel.app/api?username=emilynvs&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![emilynvs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilynvs&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/emily-neves-nascimento-17a2a7326)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emynvs/)
+[![E-mail](https://img.shields.io/badge/-Email-1e1e2e?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:emilynascimento22@outlook.com)
+
+---
+
+
+> “Estudar é uma forma de oração.”🌺
+
+
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<!--
+**emilynvs/emilynvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
