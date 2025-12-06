@@ -18,6 +18,21 @@
 
 ###
 
+<div align="center">
+
+<!-- Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=emilyneves&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" 
+  height="170"
+/>
+
+<!-- Linguagens -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyneves&theme=tokyonight&layout=compact&hide_border=false" 
+  height="170"
+/>
+
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilyneves/emilyneves/output/pacman-contribution-graph-dark.svg">
@@ -43,6 +58,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 
